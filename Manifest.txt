@@ -34,6 +34,7 @@ lib/god/conditions/tries.rb
 lib/god/configurable.rb
 lib/god/contact.rb
 lib/god/contacts/email.rb
+lib/god/contacts/jabber.rb
 lib/god/dependency_graph.rb
 lib/god/diagnostics.rb
 lib/god/driver.rb
@@ -90,6 +91,7 @@ test/test_conditions_tries.rb
 test/test_contact.rb
 test/test_dependency_graph.rb
 test/test_driver.rb
+test/test_email.rb
 test/test_event_handler.rb
 test/test_god.rb
 test/test_handlers_kqueue_handler.rb
